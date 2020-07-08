@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195241839565",
+    "firebase_url": "https://restaurantorderadmin.firebaseio.com",
+    "project_id": "restaurantorderadmin",
+    "storage_bucket": "restaurantorderadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195241839565:android:7cafdeca1dd05eb4a95284",
+        "android_client_info": {
+          "package_name": "com.restaurant.restaurantorderadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195241839565-l1jlab5do055pq73q9gfupn4trr0i7d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.restaurant.restaurantorderadmin",
+            "certificate_hash": "886113f8da5aabe0cd815145ae53c51a32d1cfcc"
+          }
+        },
+        {
+          "client_id": "195241839565-f7e4gefbdsir658svfgatp8eqlsltbn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmu-1nzxlWhA2MytY6oc5IXIX-eQNhYIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195241839565-f7e4gefbdsir658svfgatp8eqlsltbn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
